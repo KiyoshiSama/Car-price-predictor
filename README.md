@@ -70,5 +70,5 @@ git push origin feature/your-feature-name
 This project is licensed under the MIT License. See the [LICENSE](LICENCE.txt) file for details.
 
 ## Contact
-- GitHub: [KiyoshiSama](https://github.com/KiyoshiSama)
-- [awmiirh@gmail.com](mailto:awmiirh@gmail.com)
+- **GitHub:** [KiyoshiSama](https://github.com/KiyoshiSama)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
