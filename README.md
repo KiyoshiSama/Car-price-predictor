@@ -71,4 +71,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENCE.txt) f
 
 ## Contact
 - GitHub: [KiyoshiSama](https://github.com/KiyoshiSama)
-- [Gmail](awmiirh@gmail.com)
+- [awmiirh@gmail.com](mailto:awmiirh@gmail.com)
